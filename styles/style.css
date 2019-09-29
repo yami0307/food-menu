@@ -1,0 +1,50 @@
+img{
+    height:200px;
+    width:300px;
+    border: 1px black solid;
+}
+
+#menu_card{
+    border: 2px black solid;
+    margin: 100px 150px;
+    background-color: aquamarine;
+}
+
+#header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: center;
+    border: 2px black solid;
+    margin: 50px 150px;
+    background-color: rgb(45, 41, 105);
+    color: #ffffff;
+    padding: 2em 2em;
+}
+
+.heading{
+    font-size: 2em;
+    display: inline-block;
+}
+.heading:hover{
+    transform: scale(1.5);
+}
+
+#menu_item{
+    text-align: center;
+}
+
+.item{
+    display: inline-block;
+    padding: 1em 2em;
+    border: 2px brown solid;
+    margin: 50px 150px;
+    background-color: #ffffff;
+}
+
+.item:hover{
+    transform: scale(1.5);
+}
+
+footer{
+    text-align: center;
+}
