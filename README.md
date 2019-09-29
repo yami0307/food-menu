@@ -2,7 +2,7 @@
 # Food-Menu
 
 ![Version Details](https://img.shields.io/badge/version-1.0-brightgreen.svg)
-![Download Details](https://img.shields.io/github/downloads/mohitesh07/food-menu/total.svg)
+![Download Details](https://img.shields.io/github/downloads/yami0307/food-menu/total.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/yami0307/food-menu.svg)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
